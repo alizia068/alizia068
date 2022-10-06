@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alizia068
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning react.js
+- 💞️ I’m looking to collaborate with react.js developers 
+- 📫 How to reach me alizia068@gmail.com
